@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Joonghoo Park
 title: Graduate Student
-email: pjh98@korea.ac.kr
-website: www.github.com/Hoovely
+email: joonghoo@kaist.ac.kr
+website: www.github.com/joonghoo98
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -18,7 +18,7 @@ darkmode: false
 additional_links:
 - title: Github Link
   icon: fab fa-github
-  url: https://www.github.com/Hoovely
+  url: https://www.github.com/joonghoo98
 # - title: Linkedin Link
 #   icon: fab fa-linkedin
 #   url: https://www.linkedin.com/
@@ -30,7 +30,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/JH.jpg
 about_content: | # this means to ignore newlines until the next config item.
-  Hi, my name is Joonghoo Park. I am an M.S. student in Industrial & Management Engineering at Korea University.   
+  Hi, my name is Joonghoo Park. I am an Ph.D student in Industrial and Systems Engineering at KAIST.   
   My research interest is in analyzing, modeling, designing, and implementing algorithms for combinatorial optimization. 
   
   - Methodologies: Linear programming, Integer programming, Branch-and-cut, Meta-heuristics
@@ -40,6 +40,12 @@ content:
   - title: Education
     layout: list
     content:
+      - layout: top
+        title: KAIST (Korea Advanced Institute of Science and Technology)
+        # sub_title: 2026 - 
+        caption: 2026 -
+        description: | # this will include new lines to allow paragraphs
+          Ph.D in Industrial and Systems Engineering
       - layout: top
         title: Korea University
         # sub_title: 2023 - 2025
@@ -62,11 +68,12 @@ content:
         # caption: Date Range (eg. November 2016 - present)
         # link: Link to company (optional)
         description: | # this will include new lines to allow paragraphs
+          - Seongjin Lee, Joonghoo Park, Seungmin Cha and Donghyun Kim* (2022), “A Regional Economy’s Resistance to the COVID-19 Shock: Sales Revenues of Micro-, Small-, and Medium-Sized Enterprises in South Korea”, International Journal of Disaster Risk Science
+          - Joonghoo Park, Hyungjoo Cha, San Kwon and Taesu Cheong*, “Integrated optimization of facility location and routing for timely emergency disaster response”, Under review at Transportation Research Part D: Transport and Environment 
           - (Works in Progress) Hyungjoo Cha, Joonghoo Park, Chungmok Lee* and Taesu Cheong*, "An Exact algorithm for Vehicle Routing Problem with Availability Profiles"
           - (Works in Progress) Joonghoo Park, Gwangjong Ko, Hyungjoo Cha and Taesu Cheong*, “Vehicle routing problem with metro based backhauls and MFCs”
-          - (Works in Progress) Joonghoo Park, Hyungjoo Cha, San Kwon and Taesu Cheong*, “Temporary medical shelter location-routing problem with manpower allocation in a disaster situation”
-          - Seongjin Lee, Joonghoo Park, Seungmin Cha and Donghyun Kim* (2022), “A Regional Economy’s Resistance to the COVID-19 Shock: Sales Revenues of Micro-, Small-, and Medium-Sized Enterprises in South Korea”, International Journal of Disaster Risk Science
-
+          
+          
   - title: Conferences
     layout: list
     content:
