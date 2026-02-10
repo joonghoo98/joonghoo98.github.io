@@ -19,9 +19,9 @@ additional_links:
 - title: Github Link
   icon: fab fa-github
   url: https://www.github.com/joonghoo98
-# - title: Linkedin Link
-#   icon: fab fa-linkedin
-#   url: https://www.linkedin.com/
+- title: Linkedin Link
+  icon: fab fa-linkedin
+  url: https://www.linkedin.com/in/joonghoo-park-a625a9341/
 # - title: Google Scholar Link
 #   icon: fab fa-google
 #   url: https://scholar.google.com/
@@ -33,8 +33,8 @@ about_content: | # this means to ignore newlines until the next config item.
   Hi, my name is Joonghoo Park. I am an Ph.D student in Industrial and Systems Engineering at KAIST.   
   My research interest is in analyzing, modeling, designing, and implementing algorithms for combinatorial optimization. 
   
-  - Methodologies: Linear programming, Integer programming, Branch-and-cut, Meta-heuristics
-  - Applications: Vehicle routing problems, Logistics, Facility location
+  # - Methodologies: Linear programming, Integer programming, Branch-and-cut, Meta-heuristics
+  # - Applications: Vehicle routing problems, Logistics, Facility location
 
 content:
   - title: Education
@@ -91,12 +91,12 @@ content:
     content:
       - layout: top
         title: Samsung Display
-        caption: Mar. 2024 - Present
+        caption: Mar. 2024 - May. 2025
         description: | # this will include new lines to allow paragraphs
           Optimize facility planning by using optimization, Research Assistant @ Korea University
       - layout: top
         title: IITP
-        caption: Feb. 2024 - Present
+        caption: Feb. 2024 - Jun.2025
         description: | # this will include new lines to allow paragraphs
           Development of NetZero Building Energy Efficient System through AI-based HVAC system control, Information and Communication Planning and Evaluation Institute, Research Assistant @ Korea University 
       - layout: top
@@ -108,6 +108,13 @@ content:
   - title: Research Experience
     layout: list
     content:
+      - layout: top
+        title: Korea Railroad Research Institute
+        # sub_title: Research Intern
+        caption: 2025 - 2025
+        # link: Link to company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Researcher at Advanced Logistics Systems Lab, Korea Railroad Research Institute
       - layout: top
         title: Bigdata Analytics & Engineering Lab
         # sub_title: Research Intern
@@ -126,6 +133,10 @@ content:
   - title: Awards & Honors
     layout: list
     content:
+      - layout: top
+        title: Foundation of Korea Logistics Industry Promotion
+        description: | # this will include new lines to allow paragraphs
+          2nd Place, The 12th Research Paper Competition, 2025
       - layout: top
         title: Korea University
         description: | # this will include new lines to allow paragraphs
