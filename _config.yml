@@ -33,8 +33,8 @@ about_content: | # this means to ignore newlines until the next config item.
   Hi, my name is Joonghoo Park. I am an Ph.D student in Industrial and Systems Engineering at KAIST.   
   My research interest is in analyzing, modeling, designing, and implementing algorithms for combinatorial optimization. 
   
-  # - Methodologies: Linear programming, Integer programming, Branch-and-cut, Meta-heuristics
-  # - Applications: Vehicle routing problems, Logistics, Facility location
+#   - Methodologies: Linear programming, Integer programming, Branch-and-cut, Meta-heuristics
+#   - Applications: Vehicle routing problems, Logistics, Facility location
 
 content:
   - title: Education
