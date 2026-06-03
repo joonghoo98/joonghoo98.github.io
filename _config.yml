@@ -68,8 +68,8 @@ content:
         # caption: Date Range (eg. November 2016 - present)
         # link: Link to company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Seongjin Lee, Joonghoo Park, Seungmin Cha and Donghyun Kim* (2022), “A Regional Economy’s Resistance to the COVID-19 Shock: Sales Revenues of Micro-, Small-, and Medium-Sized Enterprises in South Korea”, International Journal of Disaster Risk Science
-          - Joonghoo Park, Hyungjoo Cha, San Kwon and Taesu Cheong*, “Integrated optimization of facility location and routing for timely emergency disaster response”, Under review at Transportation Research Part D: Transport and Environment 
+          - Joonghoo Park, Hyungjoo Cha, San Kwon and Taesu Cheong*, (2026), “Integrated optimization of facility location and routing for timely emergency disaster response”, Transportation Research Part D: Transport and Environment 
+          - Seongjin Lee, Joonghoo Park, Seungmin Cha and Donghyun Kim*, (2022), “A Regional Economy’s Resistance to the COVID-19 Shock: Sales Revenues of Micro-, Small-, and Medium-Sized Enterprises in South Korea”, International Journal of Disaster Risk Science
           - (Works in Progress) Hyungjoo Cha, Joonghoo Park, Chungmok Lee* and Taesu Cheong*, "An Exact algorithm for Vehicle Routing Problem with Availability Profiles"
           - (Works in Progress) Joonghoo Park, Gwangjong Ko, Hyungjoo Cha and Taesu Cheong*, “Vehicle routing problem with metro based backhauls and MFCs”
           
